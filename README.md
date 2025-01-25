@@ -5,9 +5,9 @@
 
 - 👨‍💻 Checkout my portfolio [https://main.d3d4cgx5qhr8cr.amplifyapp.com/](https://main.d3d4cgx5qhr8cr.amplifyapp.com/)
 
-  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
-
 - 📝 All of my projects are available at [https://github.com/PriyaTechTales](https://github.com/PriyaTechTales)
+
+  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 - 📫 How to reach me **palpriyasandeepkumar@gmail.com**
 
